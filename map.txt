@@ -1,0 +1,16 @@
+ routes:  
+    overview_polyline:  
+       points:         eir~FdezuOjiEfzBtqHdd_@~iKz{\`yKjbYd|EtbK~_HhQdvOdhEbrR}\faPfG`eCfvEdpRfuP`ePhiXpsYtsTzmJtoSvoIng@~dYv|KnnP|gNtxKb}PtdD~wMdjGtxGnfKdQh{PzqS~~MveNndN|sQle@lrRjzOlaAhgSzbQpkRv|Nhns@d`IvejAac@xj[jpRjiYxzCbe]lwWptOh}CvkBz{LryK~d\`hC`|JvmAjhUfdGjsQztInrl@l~Abr\b_HbnTdcSniSlui@|jz@raWd~|@vgIvqk@vrE`~Ux|AlwEnuJ~}O|zJv_p@jhCdd[dVnyOp{QptOhhWp|^nv_@~_OrqP|cd@x_C|}V~`G`q_@|iC|mi@npP|cd@v}Bfwm@wi@jimAw@z_J`nCz_CzrHtvDpoIb|Vt|Jde]hnHpeFplWxuMtpMfza@`zRx{UrmM|oR`fG`pJjyMpwLt`HzsU~wVz`]jsCjmDtsCbiS~yHztZnuCp~KfbHrrDdoP|ua@rgQpc^v{EztVxuN||~@jpOdcfAbkEli_@loEbfFdhJb~@|jHnhDfKnmNgmF~}i@stFl`}AvfBl~tAfhE~oy@tkKzkg@tZnvSd~ExyPpaHlab@j{K|~EbrEtkYjnA~ppABrrT~wAxwyAx~DveVk_Djlj@aCn{dBhfCv}y@wkC~vt@mrJb{eAtlC|rn@vkKx`m@~dHrwa@nkCfzL{aB`uT{uGd{YnrA|_^ntE`lo@tiN~|sAb|Rna~@ixCl{^}aDbbeB}x@fovAaKpld@qqJfy`@}oH|`XxmEhlJhuBdyQinG`x_@|nIdif@frMlxu@i`Bx`^{bGlmIvs@f{N}vFl|Rl[pj`@uwVduf@ep_@|bVieJ`|p@sxLxu\sjIpwk@bsBzq^p`Qlm`@xlTl{UdoHn``@trIbmNhvKnf_@byMzjo@bjKlkVd|Cfnb@peLxbScfGx_ZumCj{h@kaWlbtAqoTbukB_DxwNz{EtiHwcEjaWciGzzVsdAdsYxE`yUpuEp~RfT|tp@g|Rn~nA|eF~kc@duNddf@rtEpmi@f_Aj`PidFzny@ov@x`^bzHv{Cl|g@d|Jjn\rrAbzKta\ljAboe@yrNz~NegM|gKwVhx^vgD`}[raO~qcBrbH~nm@b@ftaAqzFbtw@w{Hxuj@wtIxyeA}mCjwLdoF`fOxt[veV`uHxy@~pVfnRngTjoLtzMvfOvtEdu@hlFu_DlxHmuF|aOfnNj|HttIdiCf_K}Xhy`@vC|`XjhBj}z@xQ~uD
+    warnings:      bounds:  
+       northeast:  
+          lat:            41.8781139
+          lng:            -87.6297872
+       southwest:  
+          lat:            34.052353
+          lng:            -118.2435703
+    waypoint_order:  
+    0
+
+    1
+    summary:      I-55 S and I-44
+    copyrights:      
